@@ -1,6 +1,6 @@
 1.26 Sakhal Code Snippets To Bring Humvee Events ( Offroad_02 ) To The Winter Map Files README
 
-Instructionss & code snippets to bring Humvee events to Sakhal, on PC & PlayStation & Xbox Console Community Servers..
+Instructions & code snippets to bring Humvee events to Sakhal, on PC & PlayStation & Xbox Console Community Servers..
 
 A maximum of 3 humvees will spawn at a possible 22 locations. (See supplied image for locations).
 
